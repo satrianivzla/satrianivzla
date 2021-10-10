@@ -10,6 +10,7 @@ Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy that
 - Linux Admin 
 - Software tester
 - Video Editor
+- Social Media
 
 ## Current studies
 Lately I was spending my time just learning about technologies that I would like to add to my skills besides the web programming that I already Knew like:
