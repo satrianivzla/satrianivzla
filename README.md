@@ -14,7 +14,7 @@ Lately I was spending my time just learning about technologies that I would like
 - **[Cousera Google Project Management Program](https://www.coursera.org/account/accomplishments/certificate/EN2EGPNAN8EW "Cousera Google Project Management Program")** This is a 6 courses program where we can learn how to understand very well the complex stage of been a Project Manager 
 
 ## Github Projects
-You can find here some works or snippets that I made related to many lenguajes and frameworks like Codeigniter, Python, KaboomJS and many others. 
+You can find here some works or snippets that I made related to many lenguages and frameworks like Codeigniter, Python, KaboomJS and many others. 
 
 <!---
 satrianivzla/satrianivzla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
