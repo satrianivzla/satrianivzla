@@ -5,9 +5,11 @@ Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy that
 - Graphic Design with Adobe Photoshop
 - SEO
 - Project Management
-- Database
+- Database Administrator (DBA) 
 - Application Security
 - Linux Admin 
+- Software tester
+- Video Editor
 
 ## Current studies
 Lately I was spending my time just learning about technologies that I would like to add to my skills besides the web programming that I already Knew like:
