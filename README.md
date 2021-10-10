@@ -9,6 +9,10 @@ Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy that
 - Application Security
 - Linux Admin 
 
+## Current studies
+Lately I was spending my time just learning about technologies that I would like to add to my skills:
+- **[Cousera Google Project Management Program](https://www.coursera.org/account/accomplishments/certificate/EN2EGPNAN8EW "Cousera Google Project Management Program")**  
+
 <!---
 satrianivzla/satrianivzla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
