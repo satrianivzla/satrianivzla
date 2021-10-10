@@ -1,7 +1,7 @@
 
-## Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy
+## About Satrianivzla
 
-Besides the fact that I am working with PHP since more or less 15 years, I always be open to work in other fields like:
+Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy that besides the fact that I am working with PHP since more or less 15 years, I always be open to work in other fields like:
 - Graphic Design with Adobe Photoshop
 - SEO
 - Project Management
