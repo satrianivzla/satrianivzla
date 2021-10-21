@@ -19,6 +19,7 @@ Lately I was spending my time just learning about technologies that I would like
 ## Github Projects
 You can find here some works or snippets that I made related to many lenguages and frameworks like **Codeigniter**, **Python**, **KaboomJS** and many others. 
 
+## Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/simonmontano/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic)](https://twitter.com/simonmontano3)
 <!---
