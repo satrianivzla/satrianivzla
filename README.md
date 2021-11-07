@@ -8,6 +8,7 @@ Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy that
 - Database Administrator (DBA) 
 - Application Security
 - Linux Admin 
+- Ethical hacking
 - Software tester
 - Video Editor
 - Social Media
