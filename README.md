@@ -2,14 +2,16 @@
 ## About Satrianivzla
 
 Hi I am Simon Montaño AKA Satrianivzla, a 51 years old PHP programming guy that besides the fact that I am working with PHP since more or less 15 years, I always be open to work in other fields like:
-- Graphic Design with Adobe Photoshop
-- SEO
-- Project Management
-- Database Administrator (DBA) 
+- Ethical hacking
 - Application Security
 - Linux Admin 
-- Ethical hacking
 - Software tester
+- Project Management
+- Digital Transformation
+- Database Administrator (DBA) 
+- SEO
+- Digital Marketing
+- Graphic Design with Adobe Photoshop
 - Video Editor
 - Social Media
 
